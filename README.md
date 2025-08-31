@@ -8,13 +8,13 @@
 </p>
 <ul>
     <li> My name is Keirran Blackley from Sydney, Australia </li>
-    <li> I'm an <a href="https://paypal.me/KeiBlackley">Open Source Developer - Made by Us, Powered by You</a> </li>
+    <li> Developing in php, python and Linux-based systems </li>
     <li> Recently working on Automation & Time Management </il>
 </ul>
 <br/>
 
 <h3> 👷 Looking to hire? - I'm a Developer and Technician </h3>
-<p> You can contact me via my <a href="https://instagram.com/KeiBlackley">📷 Instagram 📷</a> or <a href="https://keirranblackley.com">🌐 Website 🌐</a> </p>
+<p> You can contact me via my <a href="https://x.com/BlackleyKei">X (formerly Twitter)</a> or <a href="https://keirranblackley.com">My Website</a> </p>
 <br/>
 
 <h2 align="left"> Technologies Used</h2>
